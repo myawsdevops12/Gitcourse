@@ -1,0 +1,2 @@
+Using teraform also we can create aws resources.
+
